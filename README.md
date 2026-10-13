@@ -26,7 +26,7 @@ The app allows users to create accounts, log in securely, and save and view thei
   <img src="screenshots/logIn.jpg" width="180" alt="Login Screen"/>
   <img src="screenshots/signUp.jpg" width="180" alt="Sign Up Screen"/>
   <img src="screenshots/homeScreen.jpg" width="180" alt="Home Screen"/>
-  <img src="screenshots/inputFormPage.jpg" width="180" alt="Add Record Screen"/>
+  <img src="screenshots/inputformpage.jpg" width="180" alt="Add Record Screen"/>
   <img src="screenshots/savedFirestoredata.jpg" width="180" alt="Saved Records Screen"/>
 </p>
 
